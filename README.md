@@ -125,3 +125,8 @@ This project was created to strengthen my practical
 knowledge of Linux commands, Bash scripting, and
 system monitoring as part of my DevOps learning journey.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+You are free to use, modify, and distribute this project according to the license terms.
