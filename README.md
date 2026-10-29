@@ -83,8 +83,33 @@ cat monitor.log
 - Add disk and memory usage alerts
 - Generate timestamped reports
 - Schedule monitoring with cron
+## Sample Output
 
-## Author
+When the script runs, it displays a system monitoring report containing:
+
+- **Hostname and Date:** Current system information
+- **CPU Load:** System load averages
+- **Memory Usage:** RAM usage in human-readable format
+- **Disk Usage:** Root filesystem storage usage
+- **Top Processes:** Five processes consuming the most CPU
+- **Resource Alerts:** Warnings when memory or disk usage reaches 80%
+- **Log File:** Monitoring reports are saved locally in `monitor.log`
+
+### Run the Script
+
+```bash
+./monitor.sh
+```
+
+### Example Alert Messages
+
+```text
+----- RESOURCE USAGE ALERTS -----
+Memory usage is normal: 45%
+Disk usage is normal: 62%
+```
+
+*Note: The percentages above are illustrative examples. Actual values depend on your system.*
 
 
 ## Author
