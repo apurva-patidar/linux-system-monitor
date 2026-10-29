@@ -10,14 +10,18 @@ This project monitors basic Linux system information
 and displays a report in the terminal. It also saves
 monitoring output to a log file.
 
+
 ## Features
 
-- Displays hostname and current date
+- Displays system hostname and current date
 - Shows CPU load information
 - Reports RAM usage
 - Checks root filesystem disk usage
 - Lists the top 5 CPU-consuming processes
-- Saves reports to a log file
+- Generates warnings when memory usage reaches 80%
+- Generates warnings when disk usage reaches 80%
+- Saves monitoring reports to a local log file
+
 
 ## Technologies Used
 
