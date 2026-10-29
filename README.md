@@ -134,4 +134,4 @@ You are free to use, modify, and distribute this project according to the licens
 
 The following screenshot shows the Linux System Monitoring Tool running in Ubuntu.
 
-![Linux System Monitoring Output](linux terminal.png)
+![Linux System Monitoring Output](<escape>linux terminal.png</escape>)
