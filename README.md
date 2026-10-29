@@ -130,3 +130,8 @@ system monitoring as part of my DevOps learning journey.
 This project is licensed under the [MIT License](LICENSE).
 
 You are free to use, modify, and distribute this project according to the license terms.
+## Project Screenshot
+
+The following screenshot shows the Linux System Monitoring Tool running in Ubuntu.
+
+![Linux System Monitoring Output](linux terminal.png)
