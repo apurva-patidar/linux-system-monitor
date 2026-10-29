@@ -132,6 +132,4 @@ This project is licensed under the [MIT License](LICENSE).
 You are free to use, modify, and distribute this project according to the license terms.
 ## Project Screenshot
 
-The following screenshot shows the Linux System Monitoring Tool running in Ubuntu.
-
-![Linux System Monitoring Output](<escape>linux terminal.png</escape>)
+![Linux System Monitoring Output](https://github.com/apurva-patidar/linux-system-monitor/blob/main/linux%20terminal.png)
